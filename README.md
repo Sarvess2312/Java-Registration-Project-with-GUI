@@ -10,6 +10,8 @@ Delete Records
 Display Records
 Reset Interface
 Exit
+
+
 Step 1 Open project in netbeans, and open up the project that you have downloaded
 
 Step 2 Upload the mysql driver into Libraries under the project you have uploaded
